@@ -1,7 +1,7 @@
 ## :wave: Hi, I'm Luís Grizzo
 
-Welcome to my profile! I'm a front-end developer in <a target="_blank" href="https://www.liveonsolutions.com">LiveOn Solutions</a> and aspiring ui-designer. </br>
-Thanks for visiting and I'd love to connect! :point_down:
+Welcome to my profile! I'm a front-end developer and ui-design enthusiast. </br>
+Thanks for visiting and please, get in touch! :point_down:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-ot%C3%A1vio-gaido-grizzo-2a957a1b2/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/luisgrizzo)
@@ -33,4 +33,4 @@ Thanks for visiting and I'd love to connect! :point_down:
 
 Credits: <a href="https://github.com/luis-grizzo">Luís Grizzo</a>
 
-Last edited on: 15/10/2021
+Last edited on: 27/01/2022
